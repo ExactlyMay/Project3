@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React Passport Example Application
 
 An example application which combines a back-end which stores user data and front-end React.js application which handles user authentication sessions.
@@ -63,3 +64,6 @@ Dashboard which is only accessible after login:
 =======
 # Project3
 >>>>>>> origin
+=======
+# Project3
+>>>>>>> baee211984455c74f957e8fa015aeffac90c7946
